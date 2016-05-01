@@ -52,7 +52,6 @@
                     <TextBlock Text="Version 1.0" HorizontalAlignment="Center" Foreground="#77F0FFFF" FontSize="20"></TextBlock>
                 </StackPanel>
             </StackPanel>
-
             <StackPanel Name="AboutMyStackPanel" Margin="0,0,0,20" VerticalAlignment="Bottom" >
                 <TextBlock Text="光电工程学院 叶舟" FontSize="16" Foreground="#77F0FFFF" HorizontalAlignment="Center"></TextBlock>
                 <HyperlinkButton Content="本软件官方网站：www.ezodiac.cf" NavigateUri="http://www.ezodiac.cf" FontSize="14" Foreground="#77F0FFFF" HorizontalAlignment="Center"></HyperlinkButton>
